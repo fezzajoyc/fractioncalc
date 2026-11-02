@@ -3,7 +3,7 @@
 const en = {
   brand: "FractionCalc",
   tagline: "Every fraction calculation runs in your browser.",
-  metaDesc: "Free fraction calculators: add, subtract, multiply, divide, simplify, and convert fractions to decimals or mixed numbers. Everything runs in your browser — your numbers never leave your device.",
+  metaDesc: "Free fraction calculators: add, subtract, multiply, divide, simplify and convert to decimals or mixed numbers. Everything runs in your browser.",
 
   nav: {
     tools: "All tools",
